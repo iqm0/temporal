@@ -1,0 +1,8 @@
+{
+    "cody.autocomplete.advanced.provider": "unstable-ollama",
+    "cody.autocomplete.experimental.ollamaOptions": {
+
+        "url": "http://localhost:11434",
+        "model": "codellama:7b-code"
+    }
+}
